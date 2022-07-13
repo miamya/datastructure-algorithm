@@ -1,4 +1,4 @@
-# for university data structure and algorithm assignments
+# For data structure and algorithm class assignments
 
 ## 1. General Tree
 not binary tree
